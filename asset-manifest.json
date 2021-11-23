@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/shardulkapse/CryptocurrenciesApp.git/static/css/main.bb4e7124.chunk.css",
+    "main.js": "/shardulkapse/CryptocurrenciesApp.git/static/js/main.a1c01748.chunk.js",
+    "main.js.map": "/shardulkapse/CryptocurrenciesApp.git/static/js/main.a1c01748.chunk.js.map",
+    "runtime-main.js": "/shardulkapse/CryptocurrenciesApp.git/static/js/runtime-main.a90b7a65.js",
+    "runtime-main.js.map": "/shardulkapse/CryptocurrenciesApp.git/static/js/runtime-main.a90b7a65.js.map",
+    "static/js/2.0997fea1.chunk.js": "/shardulkapse/CryptocurrenciesApp.git/static/js/2.0997fea1.chunk.js",
+    "static/js/2.0997fea1.chunk.js.map": "/shardulkapse/CryptocurrenciesApp.git/static/js/2.0997fea1.chunk.js.map",
+    "index.html": "/shardulkapse/CryptocurrenciesApp.git/index.html",
+    "static/css/main.bb4e7124.chunk.css.map": "/shardulkapse/CryptocurrenciesApp.git/static/css/main.bb4e7124.chunk.css.map",
+    "static/js/2.0997fea1.chunk.js.LICENSE.txt": "/shardulkapse/CryptocurrenciesApp.git/static/js/2.0997fea1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a90b7a65.js",
+    "static/js/2.0997fea1.chunk.js",
+    "static/css/main.bb4e7124.chunk.css",
+    "static/js/main.a1c01748.chunk.js"
+  ]
+}
