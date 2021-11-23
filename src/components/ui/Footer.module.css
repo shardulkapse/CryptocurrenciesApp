@@ -1,0 +1,15 @@
+.footer {
+  width: 100%;
+  min-height: 10vh;
+  background-color: rgb(4, 2, 37);
+  color: #f0f8ff;
+  padding: 10px 0;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+h5 {
+  letter-spacing: 3px;
+}

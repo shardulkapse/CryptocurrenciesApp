@@ -1,0 +1,64 @@
+.main {
+  background-color: #f0f8ff;
+  min-height: 100vh;
+}
+
+.searchcrypto {
+  padding: 50px 0;
+}
+
+.searchcrypto input {
+  width: 300px;
+  padding: 10px 15px;
+  text-align: center;
+  outline: none;
+  letter-spacing: 2px;
+  border-radius: 50px;
+  border-color: rgb(4, 2, 37);
+}
+
+.container {
+  margin-top: 20px;
+  padding-bottom: 20px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.card {
+  width: 315px;
+  padding: 15px;
+  margin: 20px;
+  background-color: #fff;
+  transition: all 0.3s ease-out;
+  text-decoration: none;
+  color: #000;
+}
+.card:hover {
+  box-shadow: 0px 0px 10px rgb(133, 133, 133);
+  cursor: pointer;
+}
+
+.first {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  border-bottom: 1px solid #747474;
+  padding: 10px 5px;
+}
+
+.icon {
+  width: 35px;
+}
+
+.info {
+  display: flex;
+  flex-direction: column;
+  padding: 15px 0;
+}
+
+.info span {
+  margin: 10px 0;
+  font-size: 14px;
+}
