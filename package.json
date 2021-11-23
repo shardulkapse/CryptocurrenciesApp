@@ -2,7 +2,7 @@
   "name": "crypto-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://shardulkapse.github.io/CryptoApplication",
+  "homepage": ".",
   "dependencies": {
     "@heroicons/react": "^1.0.5",
     "@reduxjs/toolkit": "^1.6.2",
