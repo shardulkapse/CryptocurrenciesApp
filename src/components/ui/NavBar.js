@@ -14,9 +14,7 @@ function NavBar() {
         <Link to="/cryptocurrencies" className={styles.link}>
           Coins
         </Link>
-        <Link to="/market" className={styles.link}>
-          Markets
-        </Link>
+        
         <Link to="/exchanges" className={styles.link}>
           Exchanges
         </Link>

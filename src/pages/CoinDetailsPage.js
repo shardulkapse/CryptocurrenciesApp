@@ -41,11 +41,11 @@ function CoinDetailsPage() {
     <div>
       {isLoading && <Loading />}
 
-      <>
+     {!isLoading &&  <>
         <NavBar />
-        {!isLoading && <CoinInfo />}
+        <CoinInfo />
         <Footer />
-      </>
+      </>}
     </div>
   );
 }

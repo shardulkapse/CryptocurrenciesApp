@@ -2,7 +2,6 @@ import "./App.css";
 import { Route, Routes } from "react-router";
 import Homepage from "./pages/Homepage";
 import Exchanges from "./pages/Exchanges";
-import Market from "./pages/Market";
 import CoinDetailsPage from "./pages/CoinDetailsPage";
 import NotFoundPage from "./pages/NotFoundPage";
 import { useEffect } from "react";
@@ -40,7 +39,6 @@ function App() {
       <Routes>
         <Route element={<Homepage />} path="/" />
         <Route element={<Exchanges />} path="/exchanges" />
-        <Route element={<Market />} path="/market" />
         <Route element={<Cryptocurrencies />} path="/cryptocurrencies" />
         <Route element={<CoinDetailsPage />} path="/coindetail/:coinId" />
         <Route path="*" element={<NotFoundPage />} />
